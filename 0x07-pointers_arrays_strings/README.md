@@ -1,1 +1,1 @@
-0x07-pointers_arrays_strings
+This Readme file contains pointers array strings
